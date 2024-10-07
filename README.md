@@ -1,4 +1,4 @@
-# About Tableau Project
+# Charlotte Mexklenberg Police Department (CMPD) Traffic Stops
 My tableau project is about Traffic Stops by the Charlotte Mecklenberg Police Department (CMPD)
 
 Here is the link to my Tableau Cloud:
