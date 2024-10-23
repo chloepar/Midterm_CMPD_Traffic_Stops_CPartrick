@@ -12,4 +12,5 @@ The third page of the analysis dives into the overall population of Charlotte, a
 
 Where is the data from?
 I got my data for traffic stops from a publicly available government website: https://www.opendatapolicingnc.com/report?var=stopPurposeTitle:Investigation&var=agencyTitle:Charlotte-Mecklenburg+Police+Department&var=stateAbbreviation:NC#divStopCountTotal
+
 I got my data for the Charlotte population from: https://datausa.io/profile/geo/charlotte-nc/
