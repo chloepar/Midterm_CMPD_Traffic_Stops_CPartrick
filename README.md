@@ -1,10 +1,9 @@
 # Charlotte Mecklenberg Police Department (CMPD) Traffic Stops
-My tableau project is about Traffic Stops by the Charlotte Mecklenberg Police Department (CMPD)
 
 ## Analysis Guide
 ### Traffic Stops in Charlotte
 
-The second page of this analysis provides insight into traffic stop data for the Charlotte Mecklenberg Police Department (CMPD). The analysis includes data pertinent to: traffic stops, traffic searches, use of force in these events, and the rate at which contraband was ultimately found (as a result of a traffic search). Any citizen can be stopped, but those who are searched also have to have been stopped. Likewise, use of force can only happen if they have been stopped, and contraband can only be found if they are searched.
+The second page of this analysis provides insight into traffic stop data for the CMPD. The analysis includes data pertinent to: traffic stops, traffic searches, use of force in these events, and the rate at which contraband was ultimately found (as a result of a traffic search). Any citizen can be stopped, but those who are searched also have to have been stopped. Likewise, use of force can only happen if they have been stopped, and contraband can only be found if they are searched.
 
 ### Charlotte's Population
 
