@@ -11,6 +11,6 @@ The second page of this analysis provides insight into traffic stop data for the
 The third page of the analysis dives into the overall population of Charlotte, and looks at the rate of traffic stops and traffic searches based on the entire population. The goal here is to highlight the differences between ethnicities, especially when accounting for the overarching % of population each ethnicity in Charlotte has. This data includes government census information for the past 10 years
 
 Where is the data from?
-I got my data for traffic stops from a publicly available government website: https://www.opendatapolicingnc.com/report?var=stopPurposeTitle:Investigation&var=agencyTitle:Charlotte-Mecklenburg+Police+Department&var=stateAbbreviation:NC#divStopCountTotal
+I got my data for traffic stops from a publicly available website: https://www.opendatapolicingnc.com/report?var=stopPurposeTitle:Investigation&var=agencyTitle:Charlotte-Mecklenburg+Police+Department&var=stateAbbreviation:NC#divStopCountTotal
 
 I got my data for the Charlotte population from: https://datausa.io/profile/geo/charlotte-nc/
